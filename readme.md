@@ -17,8 +17,8 @@ These are the instructions to clone and run this project in your local machine f
 1. First of all, Clone this repository & navigate to the directory
 
 ```
-git clone https://github.com/chiragverma11/EatEasy_Food_Ordering_Website.git
-cd EatEasy_Food_Ordering_Website
+git clone https://github.com/solankidharmistha/MEAN_Capstone_project8.git
+cd MEAN_Capstone_project8
 ```
 
 2. Install the Dependencies
